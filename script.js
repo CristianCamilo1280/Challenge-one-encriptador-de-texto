@@ -46,11 +46,3 @@ function desencriptar(stringDesencriptada){
     }
     return stringDesencriptada    
 }
-
-function btncopiar(){
-    const copiar = copiar 
-}
-
-function copiar(stringCopiar){
-    copiar.textArea
-}
